@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Blood Pressure and Vascular Function Laboratory"
+title: "Measuring and researching blood pressure and vascular and autonomic function."
 excerpt: "About the laboratory research group."
 author_profile: true
 redirect_from: 
