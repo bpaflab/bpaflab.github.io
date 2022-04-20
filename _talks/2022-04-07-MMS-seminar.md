@@ -1,9 +1,9 @@
 ---
 title: "Macquarie Medical School Seminar Series"
 collection: talks
-type: "Conference proceedings talk"
+type: "Invited talk"
 permalink: /talks/2022-04-07-MMS-seminar
-venue: "Blood Pressure and Vascular Function Laboratory"
+venue: "Macquarie Medical School, Macquarie University."
 date: 2022-04-07
 location: "Sydney, Australia"
 ---
