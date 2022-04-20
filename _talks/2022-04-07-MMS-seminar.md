@@ -2,7 +2,7 @@
 title: "Macquarie Medical School Seminar Series"
 collection: talks
 type: "Invited talk"
-permalink: /talks/2022-04-07-MMS-seminar
+permalink: /presentations/index_2022_bpvf_overview.html
 venue: "Macquarie Medical School, Macquarie University."
 date: 2022-04-07
 location: "Sydney, Australia"
