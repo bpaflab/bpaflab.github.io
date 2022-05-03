@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Measuring and researching blood pressure and vascular and autonomic function."
+title: ""
 excerpt: "About the laboratory research group."
 author_profile: true
 redirect_from: 
@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Website currently in the building phase. Drop back another day. We hope to have a lot of things up here soon.
+<h2><a href="/clinic/">Information for patients and clinicians</a></h2>
+<h2><a href="/research/">Information for cardiovascular researchers</a></h2>
+<h2><a href="/teaching/">Information for students</a></h2>
