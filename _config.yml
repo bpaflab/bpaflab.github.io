@@ -86,7 +86,7 @@ author:
   location         : "Macquarie Medical School<br>Faculty of Medicine, Health and<br>Human Sciences<br>Macquarie University<br>Sydney, Australia."
   employer         : 
   pubmed           : #"https://pubmed.ncbi.nlm.nih.gov/?term=Butlin+M&cauthor_id=29587990"
-  googlescholar    : "#http://yourfullgooglescholarurl.com"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  #"https://www.researchgate.net/profile/Mark_Butlin"
   uri              :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@MarkButlin"
+  twitter          : "MarkButlin"
   vine             :
   weibo            :
   xing             :
