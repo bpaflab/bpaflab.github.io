@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : 
-  avatar           : "profile.png"
-  bio              : "Measuring and researching blood pressure and vascular and autonomic function."
+  avatar           : "logo.png"
+  bio              : "For clear and modern measurement and research of blood pressure and vascular and autonomic function."
   location         : "Macquarie Medical School<br>Faculty of Medicine, Health and<br>Human Sciences<br>Macquarie University<br>Sydney, Australia."
   employer         : 
-  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Butlin+M&cauthor_id=29587990"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://pubmed.ncbi.nlm.nih.gov/?term=Butlin+M&cauthor_id=29587990"
+  googlescholar    : "#http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Mark_Butlin"
+  researchgate     :  #"https://www.researchgate.net/profile/Mark_Butlin"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-2746-4222"
+  orcid            : #"https://orcid.org/0000-0002-2746-4222"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
