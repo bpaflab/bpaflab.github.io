@@ -16,7 +16,7 @@ main:
     url: /team/
 
   - title: "Blog"
-    url: /posts/
+    url: /year-archive/
 
   - title: "Contact"
     url: /contact/
