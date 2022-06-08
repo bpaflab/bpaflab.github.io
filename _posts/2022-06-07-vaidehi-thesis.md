@@ -1,6 +1,6 @@
 ---
 title: 'Congratulations to Vaidehi Desai - Masters of Research thesis submitted on the links between blood pressure regulation through the baroreceptors and arterial stiffness'
-date: 2022-06-08
+date: 2022-06-07
 permalink: /posts/2022/06/vaidehi-thesis/
 tags:
   - thesis
