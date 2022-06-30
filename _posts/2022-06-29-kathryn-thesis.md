@@ -1,5 +1,5 @@
 ---
-title: 'Congratulations to Vaidehi Desai - Masters of Research thesis submitted on the links between blood pressure regulation through the baroreceptors and arterial stiffness'
+title: 'Kathryn Busch submits her PhD thesis, which reveals that the measurement of brain *venous* pulsatility may predict detrimental events following certain types of brain surgery'
 date: 2022-06-29
 permalink: /posts/2022/06/kathryn-thesis/
 tags:
