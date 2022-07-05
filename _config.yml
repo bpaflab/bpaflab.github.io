@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mark Butlin"
+  name             : #"Mark Butlin"
   avatar           : "images/logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "For clear and modern measurement, research and education in blood pressure, vascular function, and autonomic function."
   location         : "Macquarie Medical School<br>Faculty of Medicine, Health and<br>Human Sciences<br>Macquarie University<br>Sydney, Australia."
@@ -115,10 +115,10 @@ author:
       url: "mailto:mark.butlin@mq.edu.au"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://researchers.mq.edu.au/en/persons/mark-butlin"
+      url: #"https://researchers.mq.edu.au/en/persons/mark-butlin"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/MarkButlin"
+      url: "https://twitter.com/i/lists/1521642152169992192"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
