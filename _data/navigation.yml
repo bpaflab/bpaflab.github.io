@@ -1,26 +1,26 @@
 # main links
 main:
-  - title: "Clinic"
-    url: /clinic/
+  # - title: "Clinic"
+  #   url: /clinic/
   
-  - title: "Research"
-    url: /research/
+  # - title: "Research"
+  #   url: /research/
 
-  - title: "Talks"
-    url: /talks/    
+  # - title: "Talks"
+  #   url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  # - title: "Teaching"
+  #   url: /teaching/    
     
-  - title: "Team"
-    url: /team/
+  # - title: "Team"
+  #   url: /team/
 
   - title: "Blog"
     url: /year-archive/
 
-  - title: "Contact"
-    url: /contact/
-    
+  # - title: "Contact"
+  #   url: /contact/
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
