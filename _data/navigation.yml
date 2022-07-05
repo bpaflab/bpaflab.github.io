@@ -1,10 +1,10 @@
 # main links
 main:
   - title: "Clinic"
-    url: /_pages/clinic.html
+    url: /clinic/
   
   - title: "Research"
-    url: /_pages/research.html
+    url: /research/
 
   - title: "Talks"
     url: /_talks/    
@@ -13,13 +13,13 @@ main:
     url: /_teaching/    
     
   - title: "Team"
-    url: /_page/team.html
+    url: /team/
 
   - title: "Blog"
     url: /_posts/
 
   - title: "Contact"
-    url: /_pages/contact.html
+    url: /contact/
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
