@@ -7,16 +7,16 @@ main:
     url: /research/
 
   - title: "Talks"
-    url: /_talks/    
+    url: /talks/    
 
   - title: "Teaching"
-    url: /_teaching/    
+    url: /teaching/    
     
   - title: "Team"
     url: /team/
 
   - title: "Blog"
-    url: /_posts/
+    url: /posts/
 
   - title: "Contact"
     url: /contact/
