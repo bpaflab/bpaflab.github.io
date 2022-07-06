@@ -299,6 +299,7 @@ defaults:
       comments: # true
       share: true
       related: true
+      sort_order: reverse
   # _pages
   - scope:
       path: "_pages"
@@ -314,6 +315,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      sort_by: title
   # _talks
   - scope:
       path: "_talks"
@@ -324,3 +326,4 @@ defaults:
       author_profile: true
       share: true
       related: true
+      sort_order: reverse
