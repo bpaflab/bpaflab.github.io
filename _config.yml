@@ -314,7 +314,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       sort_by: title
   # _talks
   - scope:
@@ -326,4 +326,5 @@ defaults:
       author_profile: true
       share: true
       related: true
+      sort_by: date
       sort_order: reverse
