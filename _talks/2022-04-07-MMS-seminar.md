@@ -8,4 +8,4 @@ date: 2022-04-07
 location: "Sydney, Australia"
 ---
 
-A presentation to the School providing an overview of the main research areas of the Blood Pressure and Vascular Function Laboratory in 2022.
+A presentation to the Macquarie Medical School providing an overview of the main research areas of the Blood Pressure and Vascular Function Laboratory in 2022.
