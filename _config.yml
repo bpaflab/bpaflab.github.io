@@ -116,6 +116,9 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: #"https://researchers.mq.edu.au/en/persons/mark-butlin"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: <a rel="me" href="https://mastodon.au/@markbutlin">Mastodon</a>
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/i/lists/1521642152169992192"
@@ -132,6 +135,9 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: <a rel="me" href="https://mastodon.au/@markbutlin">Mastodon</a>
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/i/lists/1521642152169992192"
