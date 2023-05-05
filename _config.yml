@@ -19,13 +19,13 @@ locale                   : "en-GB"
 title                    : "Blood Pressure and Arterial Function"
 title_separator          : "-"
 subtitle                 : "(BPAF) Laboratory" # site tagline that appears below site title in masthead
-name                     : "Dr Mark Butlin"
+name                     : "Mark Butlin"
 description              : #""
-url                      : https://butlin.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://bpaflab.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "images/logo_88x88.png"  # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : #"Mark Butlin"
-  avatar           : #"images/logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "images/logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "For clear and modern measurement, research and education in blood pressure, vascular function, and autonomic function."
   location         : "Macquarie Medical School<br>Faculty of Medicine, Health and<br>Human Sciences<br>Macquarie University<br>Sydney, Australia."
   email            :
